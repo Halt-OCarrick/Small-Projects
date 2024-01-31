@@ -1,0 +1,10 @@
+How to run Lego Star Wars: Quest For R2-D2
+=====================================================
+
+1) Ensure that you are on a windows operating system
+2) Ensure that you have internet explorer installed (included in the package)
+2a) Sorry, but it's the only browser that works as far as I can tell.
+3) Execute main.py
+4) Click finish on the Unity Web Player window that comes up
+5) Click "Allow blocked content" if internet explorer asks
+6) Enjoy :)

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trivia>
+	<question value="What color is Yoda’s LightSaber?" correct="Green">
+		<answer txt="Blue"/>
+		<answer txt="Red"/>
+		<answer txt="Green"/>
+	</question>
+	<question value="For how many years did Yoda teach Jedi?" correct="800 years">
+		<answer txt="40 years"/>
+		<answer txt="300 years"/>
+		<answer txt="800 years"/>		
+	</question>
+	<question value="What is the name of the Separatist flagship under the command of General Grievous that destroyed Plo Koon’s starship?" correct="The Malevolence">
+		<answer txt="The Diabolical"/>
+		<answer txt="The Malevolence"/>
+		<answer txt="The Destroyer"/>		
+	</question>
+	<question value="What is the name of the Malevolence’s most powerful weapon?" correct="Ion cannon">
+		<answer txt="Ion laser"/>
+		<answer txt="Ion cannon"/>
+		<answer txt="Ion torpedo"/>		
+	</question>
+	<question value="What is the name of the Venator-class Republic cruiser that was assigned to Jedi General Anakin Skywalker during the Clone Wars?" correct="The Resolute">
+		<answer txt="The Resolute"/>
+		<answer txt="The Absolute"/>
+		<answer txt="The Dissolute"/>		
+	</question>
+	<question value="What did Captain Rex sometimes call new clone troopers?" correct="Shinies">
+		<answer txt="Shinies"/>
+		<answer txt="Newbies"/>
+		<answer txt="Padawans"/>		
+	</question>
+	<question value="Why are rookie clone troopers sometimes called 'Shinies'?" correct="Because their armor is still clean and shiny">
+		<answer txt="Because their armor is still clean and shiny"/>
+		<answer txt="Because their blasters are new and shiny"/>
+		<answer txt="Because their helmets don’t have any stripes"/>		
+	</question>
+	<question value="In what part of the galaxy does most of the action of the Clone Wars take place?" correct="The Outer Rim">
+		<answer txt="The Deep Core"/>
+		<answer txt="The Inner Rim"/>
+		<answer txt="The Outer Rim"/>		
+	</question>
+	<question value="What is the name of the Jedi Master who discovered Ahsoka and brought her to the Jedi Temple?" correct="Plo Koon">
+		<answer txt="Yoda"/>
+		<answer txt="Plo Koon"/>
+		<answer txt="Mace Windu"/>		
+	</question>
+	<question value="Which droid replaced R2-D2 when he got lost in the Battle of Bothawui?" correct="R3-S6">
+		<answer txt="R3-S6"/>
+		<answer txt="C-3P0"/>
+		<answer txt="R3-A2"/>		
+	</question>
+	<question value="On what watery planet were the clone troopers created?" correct="Kamino">
+		<answer txt="Naboo"/>
+		<answer txt="Kamino"/>
+		<answer txt="Coruscant"/>		
+	</question>	
+	<question value="Spider, Crab and Vulture are types of...?" correct="Separatist droids">
+		<answer txt="Starships"/>
+		<answer txt="Separatist droids"/>
+		<answer txt="Insects"/>		
+	</question>	
+	<question value="What color are Asajj Ventress’ lightsabers?" correct="Red">
+		<answer txt="Red"/>
+		<answer txt="Purple"/>
+		<answer txt="Green"/>		
+	</question>	
+	<question value="What is the name of Jabba´s son?" correct="Rotta">
+		<answer txt="Mango"/>
+		<answer txt="Crotta"/>
+		<answer txt="Rotta"/>		
+	</question>	
+	<question value="What is the name of the female warrior who was trained in the ways of the Sith by Count Dooku?" correct="Asajj Ventress">
+		<answer txt="Ahsoka Tano"/>
+		<answer txt="Padmé Amidala"/>
+		<answer txt="Asajj Ventress"/>		
+	</question>	
+	<question value="What is a Jedi’s favorite weapon?" correct="Lightsaber">
+		<answer txt="Whip"/>
+		<answer txt="Blaster"/>
+		<answer txt="Lightsaber"/>		
+	</question>	
+	<question value="Where is the Jedi Temple located?" correct="Coruscant">
+		<answer txt="Coruscant"/>
+		<answer txt="Antar"/>
+		<answer txt="Tatooine"/>		
+	</question>	
+	<question value="What was the unofficial title for a child undergoing the earliest stages of Jedi training?" correct="Youngling">
+		<answer txt="Trainee"/>
+		<answer txt="Padawan"/>
+		<answer txt="Youngling"/>		
+	</question>	
+	<question value="What type of droid is C-3PO?" correct="Protocol droid">
+		<answer txt="Battle droid"/>
+		<answer txt="Protocol droid"/>
+		<answer txt="Medical droid"/>		
+	</question>	
+	<question value="Which droid is often the companion of Anakin Skywalker in the Clone Wars?" correct="R2-D2">
+		<answer txt="R2-D2"/>
+		<answer txt="C-3P0"/>
+		<answer txt="Yoda"/>		
+	</question>
+	<question value="What is the name of one of the Senators from Naboo during the Clone Wars?" correct="Padmé Amidala">
+		<answer txt="Aurra Sing"/>
+		<answer txt="Padmé Amidala"/>
+		<answer txt="Mace Windu"/>		
+	</question>
+	<question value="Who is the Padawan apprentice of Anakin Skywalker?" correct="Ahsoka Tano">
+		<answer txt="Ahsoka Tano"/>
+		<answer txt="Obi-Wan Kenobi"/>
+		<answer txt="Asajj Ventress"/>		
+	</question>
+	<question value="Which clone trooper  commander worked with Obi-Wan Kenobi near the end of the Clone Wars?" correct="Commander Cody">
+		<answer txt="Commander Gree"/>
+		<answer txt="Commander Cody"/>
+		<answer txt="Commander Bly"/>		
+	</question>
+	<question value="Which clone trooper captain served under Anakin Skywalker during the Clone Wars?" correct="Captain Rex">
+		<answer txt="Captain Rex"/>
+		<answer txt="Captain Typho"/>
+		<answer txt="Captain Jag"/>		
+	</question>
+	<question value="What is the name of Count Dooku’s most famous Dark Acolyte?" correct="Asajj Ventress">
+		<answer txt="Padmé Amidala"/>
+		<answer txt="Asajj Ventress"/>
+		<answer txt="Ahsoka Tano"/>		
+	</question>
+	<question value="What souvenir does General Grievous take from the Jedi he defeats?" correct="Their lightsabers">
+		<answer txt="Their starships"/>
+		<answer txt="Their droids"/>
+		<answer txt="Their lightsabers"/>		
+	</question>
+	<question value="What type of droid is R2-D2?" correct="Astromech droid">
+		<answer txt="Battle droid"/>
+		<answer txt="Protocol droid"/>
+		<answer txt="Astromech droid"/>		
+	</question>
+	<question value="Who trained Obi-Wan Kenobi?" correct="Qui-Gon Jinn">
+		<answer txt="Qui-Gon Jinn"/>
+		<answer txt="Plo Koon"/>
+		<answer txt="Count Dooku"/>		
+	</question>
+	<question value="C-3PO is fluent in how many forms of communication?" correct="Over six million">
+		<answer txt="Over six hundred"/>
+		<answer txt="Over six thousand"/>
+		<answer txt="Over six million"/>		
+	</question>
+	<question value="How did the Jedi measure a child’s ability to sense the Force?" correct="By midi-chlorian count">
+		<answer txt="By physical strength"/>
+		<answer txt="By midi-chlorian count"/>
+		<answer txt="By amount of courage"/>		
+	</question>
+	<question value="Ewoks are baby Wookiees." correct="False">
+		<answer txt="True"/>
+		<answer txt="False"/>	
+	</question>
+	<question value="Are Palpatine and Darth Sidious the same person?" correct="Yes">
+		<answer txt="Yes"/>
+		<answer txt="No"/>		
+	</question>
+	<question value="What is the weapon of choice for the MagnaGuards?" correct="Electrostaff">
+		<answer txt="Lightsaber"/>
+		<answer txt="Blaster"/>
+		<answer txt="Electrostaff"/>		
+	</question>
+	<question value="What is Grievous’ military rank?" correct="General">
+		<answer txt="Captain"/>
+		<answer txt="Sergeant"/>
+		<answer txt="General"/>		
+	</question>
+	<question value="What kind of droids are General Grievous’ bodyguards?" correct="MagnaGuards">
+		<answer txt="MagnaGuards"/>
+		<answer txt="Battle droids"/>
+		<answer txt="Super battle droids"/>		
+	</question>
+	<question value="Which of these starfighters does Anakin Skywalker sometimes use during the Clone Wars?" correct="Y-wing">
+		<answer txt="X-wing"/>
+		<answer txt="Y-wing"/>
+		<answer txt="B-wing"/>		
+	</question>
+	<question value="Who was Anakin Skywalker’s Jedi Master?" correct="Obi-Wan Kenobi">
+		<answer txt="Mace Windu"/>
+		<answer txt="Obi-Wan Kenobi"/>
+		<answer txt="Qui-Gon Jinn"/>		
+	</question>
+	<question value="After a Padawan passed the Jedi Trials, he or she would become a…?" correct="Jedi Knight">
+		<answer txt="Jedi Master"/>
+		<answer txt="Jedi Knight"/>
+		<answer txt="Jedi Lord"/>		
+	</question>
+	<question value="In order, Jedi ranks are Padawan, then Knight, and then...?" correct="Master">
+		<answer txt="Master"/>
+		<answer txt="Youngling"/>
+		<answer txt="Grand Master"/>		
+	</question>
+	<question value="How many lightsabers can General Grievous use at one time?" correct="4">
+		<answer txt="2"/>
+		<answer txt="4"/>
+		<answer txt="6"/>		
+	</question>
+	<question value="What is at the heart of a lightsaber?" correct="A crystal">
+		<answer txt="A crystal"/>
+		<answer txt="An energy battery"/>
+		<answer txt="An ion cell"/>		
+	</question>
+	<question value="What is Count Dooku’s Sith name?" correct="Darth Tyranus">
+		<answer txt="Darth Tyranus"/>
+		<answer txt="Darth Bane"/>
+		<answer txt="Darth Plagueis"/>		
+	</question>
+	<question value="Is Boba Fett the clone of Jango Fett, or the other way around?" correct="Jango is the original">
+		<answer txt="Boba is the original"/>
+		<answer txt="Jango is the original"/>		
+	</question>
+	<question value="Clone troopers are clones of...?" correct="Jango Fett">
+		<answer txt="Sifo-Dyas"/>
+		<answer txt="Jar Jar Binks"/>
+		<answer txt="Jango Fett"/>		
+	</question>
+	<question value="What is the rank of clone trooper Rex?" correct="Captain">
+		<answer txt="Commander"/>
+		<answer txt="Captain"/>
+		<answer txt="General"/>		
+	</question>
+	<question value="What is clone trooper Cody’s rank?" correct="Commander">
+		<answer txt="Commander"/>
+		<answer txt="Captain"/>
+		<answer txt="General"/>		
+	</question>
+	<question value="Which of Anakin’s arms was the first to be lost in battle and replaced with a mechanical one?" correct="His right arm">
+		<answer txt="His right arm"/>
+		<answer txt="His left arm"/>
+	</question>
+	<question value="Jabba is a... ?" correct="Hutt">
+		<answer txt="Clone trooper"/>
+		<answer txt="Hutt"/>
+		<answer txt="Jedi"/>		
+	</question>
+	<question value="What was Palpatine’s position within the Galactic Empire?" correct="Emperor">
+		<answer txt="Supreme Chancellor"/>
+		<answer txt="Senator"/>
+		<answer txt="Emperor"/>		
+	</question>
+	<question value="Darth Sidious is a... ?" correct="Sith">
+		<answer txt="Jedi"/>
+		<answer txt="Sith"/>
+		<answer txt="Clone trooper"/>		
+	</question>
+	<question value="General Grievous is a...?" correct="Cyborg">
+		<answer txt="Droid"/>
+		<answer txt="Cyborg"/>
+		<answer txt="Clone"/>		
+	</question>
+</trivia>

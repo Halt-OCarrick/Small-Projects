@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configLocalizationFile>
+
+	<!-- Configuration variables -->
+
+	<!-- The following variables specify if the game can go fullscreen -->
+	<configvar id="CAN_GO_FULLSCREEN" value="1"/>
+	
+	<!-- Indicates the release number (can be: 1, 2 or 3) -->
+	<configvar id="RELEASE" value="3"/>
+	
+	<configvar id="VERSION" value="1.7.3c"/>
+	     
+	<!-- ////////////////////////////////////////////////////////////////////////// -->
+	<!-- Lego Star Wars Strings in ENGLISH -->
+	<string id="NOT_DEF" value=""/>
+
+	<string id="ACCOMPLISHED" value="ACCOMPLISHED"/>
+    <string id="LIFE" value="LIFE"/>
+    <string id="CRYSTALS" value="CRYSTALS"/>
+    <string id="TIME_BONUS" value="TIME BONUS"/>
+    <string id="LEVEL_SCORE" value="LEVEL SCORE"/>
+    <string id="MISSION_FAILED" value="MISSION FAILED"/>
+    <string id="CLICK_TO_CONTINUE" value="CLICK TO CONTINUE"/>
+
+    <string id="HOW_TO_PLAY" value="HOW TO PLAY"/>
+    <string id="MOVE" value="MOVE"/>
+    <string id="MOVE_TEXT" value="Use the ARROW KEYS\nto move your character\naround."/>
+    <string id="JUMP_ATTACK" value="JUMP / ATTACK"/>
+    <string id="JUMP" value="JUMP"/>
+    <string id="ATTACK" value="ATTACK"/>
+    <string id="JUMP_ATTACK_TEXT" value="Press Z while in the air to DOUBLE JUMP\nPress X repeatedly to COMBO ATTACK"/>
+	<string id="USE_THE_FORCE" value="USE THE FORCE"/>
+    <string id="FORCE_TEXT" value="Press Z and X simultaneously\nto charge and release a\nFORCE PUSH!"/>
+    <string id="DASH_ATTACK" value="DASH ATTACK"/>
+    <string id="DASH_ATTACK_TEXT" value="Double tap an ARROW KEY in the\ndisired direction and press X to\nperform a DASH ATTACK!"/>
+
+    <string id="MISSION_OBJECTIVE" value="MISSION OBJECTIVE"/>
+    <string id="MISSION_DESCRIPTION" value="DESTROY THE TRANSMISSION CENTER AT THE END OF THE SPACESHIP AND ESCAPE!"/>
+    <string id="LETS_GO" value="LET'S GO!"/>
+
+	<string id="CHEATCODE_ACTIVATED" value="CHEAT CODE ENABLED !"/>
+	<string id="CHEATCODE_WRONG" value="WRONG CHEAT CODE  : ("/>
+  		
+	<string id="GAME_PAUSED" value="GAME PAUSED"/>
+	<string id="RESUME_GAME" value="RESUME GAME"/>
+	<string id="RESTART_LEVEL" value="RESTART MISSION"/>
+	<string id="AUDIO_OPTIONS" value="AUDIO OPTIONS"/>
+	<string id="INSERT_CHEATCODE" value="INSERT CHEAT CODE"/>
+
+	<string id="RESTART_CONFIRM_TEXT" value="ARE YOU SURE YOU WANT TO RESTART ?"/>
+	<string id="YES" value="YES"/>
+	<string id="NO" value="NO"/>
+	<string id="MASTER_VOLUME" value="MASTER VOLUME"/>
+	<string id="FX_VOLUME" value="FX VOLUME"/>
+	<string id="MUSIC_VOLUME" value="MUSIC VOLUME"/>
+	<string id="BACK" value="BACK"/>
+  		
+	<string id="HURRY_BONUS" value="HURRY UP FOR EXTRA BONUS!"/>
+  		
+	<string id="PAUSE" value="PAUSE"/>
+	<string id="FULLSCREEN" value="FULLSCREEN"/>
+		
+	<string id="CONTROLS" value="CONTROLS"/>
+		
+	<string id="FULLSCREEN_MSG" value="PRESS 'F' TO TOGGLE FULLSCREEN"/>
+		
+	<string id="NEXT" value="NEXT"/>
+		
+	<string id="COMING_SOON" value="COMING SOON"/>
+	<string id="COMING_SOON_TEXT" value="STAY TUNED FOR THE FULL VERSION OF THE GAME, FEATURING 4 DIFFERENT CHARACTERS, AND 15 UNIQUE LEVELS."/>
+	<string id="JUNE_2009" value="JULY 2009"/>
+		
+	<string id="HAVE_MORE_FUN" value="HAVE MORE FUN AT"/>
+	<string id="HAVE_MORE_FUN_TEXT" value="PLAY THE FULL VERSION OF THE GAME, FEATURING 4 DIFFERENT CHARACTERS, AND 15 UNIQUE LEVELS."/>
+
+	<string id="LOOSE_PHRASE" value="' MUCH TO LEARN, YOU STILL HAVE '"/>
+	<string id="SKIP" value="CLICK TO SKIP INTRO"/>
+	           
+	<!-- Character Names (FN: First Name, LN: Last Name)-->
+	<string id="ANAKIN_FN" value="ANAKIN"/>
+	<string id="ANAKIN_LN" value="SKYWALKER"/>
+	<string id="OBIWAN_FN" value="OBI-WAN"/>
+	<string id="OBIWAN_LN" value="KENOBI"/>
+	<string id="ASAJJ_FN" value="ASAJJ"/>
+	<string id="ASAJJ_LN" value="VENTRESS"/>
+	<string id="DOOKU_FN" value="DOOKU"/>
+	<string id="DOOKU_LN" value="THE COUNT"/>
+	
+	<!-- Rank Names -->
+	<string id="INITIATE" value="INITIATE"/>
+	<string id="WARRIOR" value="APPRENTICE"/>
+	<string id="GUARDIAN" value="KNIGHT"/>
+	<string id="SENTINEL" value="COMMANDER"/>
+	<string id="KNIGHT" value="GENERAL"/>
+    <string id="CHAMPION" value="MASTER"/>
+	<string id="MASTER" value="GRAND MASTER"/>
+
+	<!-- Prefix Rank Names -->
+	<string id="GRAND" value="EXPERIENCED"/>
+	<string id="HIGH" value="TALENTED"/>
+	<string id="LORD" value="GIFTED"/>
+	
+   <string id="CHARACTER_SELECTION" value="SELECT A CHARACTER"/>
+   <string id="CHARACTER_PROFILE" value="CHARACTER´S PROFILE"/>
+   <string id="LEVEL_SELECTION" value="GALAXY MAP"/>
+   <string id="MY_PROFILE" value="MY PROFILE"/>
+   <string id="OPTIONS" value="SOUND OPTIONS"/>
+   
+   <string id="GO_TO_MM" value="ABANDON MISSION"/>
+   <string id="GO_TO_MM_CONFIRM_TEXT" value="ARE YOU SURE YOU WANT TO ABANDON MISSION?"/>
+   
+   <!-- Basic Skills -->
+   <string id="BASIC_SKILLS" value="BASIC SKILLS"/>
+   <string id="SKILL_HEALTH" value="HEALTH"/>
+   <string id="SKILL_JUMP" value="JUMP"/>
+   <string id="SKILL_DAMAGE" value="DAMAGE"/>
+   <string id="SKILL_LASER_REFLECTION" value="LASER REFLECTION"/>
+   <string id="SKILL_CONFIRM" value="CONFIRM"/>
+              
+   <!-- Force Skills -->
+   <string id="FORCE_SKILLS" value="FORCE SKILLS"/>
+   <string id="SKILL_FORCE_DAMAGE" value="DAMAGE"/>
+   <string id="SKILL_HIT_DISTANCE" value="HIT DISTANCE"/>
+   <string id="SKILL_CHARGE_SPEED" value="CHARGE SPEED"/>
+   
+   <string id="SKILL_HEALTH_DESC" value="INCREASE YOUR RESISTANCE TO ATTACKS"/>
+   <string id="SKILL_JUMP_DESC" value="INCREASE HOW HIGH YOU CAN JUMP"/>
+   <string id="SKILL_DAMAGE_DESC" value="INCREASE THE AMOUNT OF DAMAGE THAT YOUR ATTACKS CAN CAUSE"/>
+   <string id="SKILL_LASER_REFLECTION_DESC" value="INCREASE YOUR REACTION AND AIMING"/>
+   <string id="SKILL_FORCE_DAMAGE_DESC" value="INCREASE THE POWER OF YOUR FORCE ATTACKS"/>
+   <string id="SKILL_FORCE_HIT_DISTANCE_DESC" value="INCREASE THE AREA OF YOUR FORCE ATTACKS"/>
+   <string id="SKILL_FORCE_CHARGE_SPEED_DESC" value="INCREASE HOW FAST YOU CAN CHARGE THE FORCE ATTACK"/>
+
+   <!-- Grid related -->
+   <string id="DAYS" value="DAYS"/>
+   <string id="HOURS" value="HS"/>
+   <string id="MINS" value="MINS"/>
+
+   <string id="CLICK_HERE_TO_CONT" value="CLICK HERE TO CONTINUE"/>
+   
+   <!-- Mission related -->
+   <string id="MISSION" value="MISSION"/>
+   
+   <string id="MISSION_TITLE_DARK1" value="DESTROY THE REPUBLICAN SENSOR ARRAY!"/>
+   <string id="MISSION_TITLE_DARK2" value="ELIMINATE ALL THE TROOPERS AND RECOVER THE SHIP!"/>
+   <string id="MISSION_TITLE_DARK3" value="RECONFIGURE THE FREQUENCY FILTERS!"/>
+   <string id="MISSION_TITLE_DARK4" value="REPAIR THE HOMING BEACON!"/>
+   <string id="MISSION_TITLE_DARK5" value="DEFEAT THE REPUBLIC ARMY!"/>
+   <string id="MISSION_TITLE_DARK6" value="GET RID OF ALL THE CLONE TROOPERS!"/>
+   <string id="MISSION_TITLE_DARK7" value="DEACTIVATE THE AMPLIFIER!"/>
+   <string id="MISSION_TITLE_DARK8" value="RECONFIGURE THE ALTERNATOR!"/>
+   <string id="MISSION_TITLE_DARK9" value="ELIMINATE THE FAKE SIGNAL!"/>
+   <string id="MISSION_TITLE_DARK10" value="DEACTIVATE THE REPUBLIC NODE!"/>
+   <string id="MISSION_TITLE_DARK11" value="FIND AND REPAIR THE SEPARATIST SHUTTLE!"/>
+   <string id="MISSION_TITLE_DARK12" value="GET RID OF ALL THE TROOPERS!"/>
+   <string id="MISSION_TITLE_DARK13" value="DEFEAT ALL THE TROOPERS!"/>
+   <string id="MISSION_TITLE_DARK14" value="FIND AND REPAIR THE FREQUENCY FILTERS!"/>
+   <string id="MISSION_TITLE_DARK15" value="DESTROY THE LASER CANNONS!"/>
+   
+   <string id="MISSION_TITLE_LIGHT1" value="DEACTIVATE THE SENSOR ARRAY!"/>
+   <string id="MISSION_TITLE_LIGHT2" value="GET RID OF ALL THE DROIDS!"/>
+   <string id="MISSION_TITLE_LIGHT3" value="FIND AND REPAIR THE GENERATOR!"/>
+   <string id="MISSION_TITLE_LIGHT4" value="DESTROY THE HOMING BEACON!"/>
+   <string id="MISSION_TITLE_LIGHT5" value="ELIMINATE THE SEPARATIST ARMY!"/>
+   <string id="MISSION_TITLE_LIGHT6" value="DEFEAT ALL THE DROIDS!"/>
+   <string id="MISSION_TITLE_LIGHT7" value="REACTIVATE THE AMPLIFIER!"/>
+   <string id="MISSION_TITLE_LIGHT8" value="TURN OFF THAT RACKET!"/>
+   <string id="MISSION_TITLE_LIGHT9" value="REPAIR THE SIGNAL EMITTER!"/>
+   <string id="MISSION_TITLE_LIGHT10" value="DESTROY THE SEPARATIST NODE!"/>
+   <string id="MISSION_TITLE_LIGHT11" value="FIND AND REPAIR THE ATTACK GUNSHIP!"/>
+   <string id="MISSION_TITLE_LIGHT12" value="ELIMINATE ALL THE DROIDS!"/>
+   <string id="MISSION_TITLE_LIGHT13" value="DEFEAT ALL THE DROIDS AND TAKE THE SHIP!"/>
+   <string id="MISSION_TITLE_LIGHT14" value="DESTROY THE SEPARATIST FREQUENCY FILTERS!"/>
+   <string id="MISSION_TITLE_LIGHT15" value="DEACTIVATE THE TARGETING COMPUTER!"/>
+   
+   <string id="MISSION_BRIEF_DARK1" value="The Republic fleet is on the move, and in order to follow their steps and find the astromech droid first, we need to move undetected.\n\nYour mission is to get aboard their starship and destroy their sensor array!"/>
+   <string id="MISSION_BRIEF_DARK2" value="The Republic Army has taken over one of our starships in a remote sector of the galaxy.\n\nControlling that sector is critical if we want to amplify the lost astromech droid’s signal and obtain its secret blueprints. We need to defeat the clone troopers and get that ship back at any cost!"/>
+   <string id="MISSION_BRIEF_DARK3" value="Our droid spies have discovered Republic subspace frequency filters on the surface of the planet below.\n\nOur enemies must not use those filters to find the missing droid! Locate and reconfigure them to work for us, and we will gain a significant advantage in the search for the secret blueprints."/>
+   <string id="MISSION_BRIEF_DARK4" value="In a recent attack on one of our bases, Republic forces captured one of our homing beacons. The device is currently damaged and non-functional.\n\nIf you can manage to access their ship and repair the beacon, we can use it to locate their droid-detecting antennas on the surface of the planet. Get to it!"/>
+   <string id="MISSION_BRIEF_DARK5" value="We have detected Republic activity on the nearest planet. They must be getting close to finding the location of the missing astromech droid... and the secret plans stored inside it.\n\nGo down there, eliminate all of the clone troopers, and secure the area for our forces. We need to find those blueprints first!"/>
+   <string id="MISSION_BRIEF_DARK6" value="Our engineers have discovered a sector of the galaxy where the droid’s signal has less interference. Unfortunately, our ship carrying that information was captured by Republic troops.\n\nWe need to strike them now and recover that ship before they can call for reinforcements!"/>
+   <string id="MISSION_BRIEF_DARK7" value="During the last battle, we captured some sort of Republic amplifier. While we were analyzing it, a squad of clone troopers assaulted our ship and switched the device on. Our defense system immediately went down, leaving the ship vulnerable to attacks.\n\nDestroy this device or we will lose the ship!"/>
+   <string id="MISSION_BRIEF_DARK8" value="We believe that if we can reconfigure an alternator aboard one of the Republic starships, it will emit a low-frequency noise that will confuse their localizing antennas and prevent them from tracking down the missing droid.\n\nIf you can get into one of their ships and access an alternator,  victory will be on our side!"/>
+   <string id="MISSION_BRIEF_DARK9" value="We thought we’d found the missing droid, but it turned out to be a Republic trick using a fake distress signal emitter on a nearby planet.\n\nIf we don’t turn it off, our locating systems will be permanently confused and we will never find the droid’s real location. Find that emitter and shut it down!"/>
+   <string id="MISSION_BRIEF_DARK10" value="The Triangulation Node that we’ve placed on this planet is doing an excellent job in pinpointing the location of the missing droid. However, we’ve just been informed that the Republic Army also has an active node, and it’s alarmingly close to ours.\n\nThat’s unacceptable! Find that triangulation node and destroy it!"/>
+   <string id="MISSION_BRIEF_DARK11" value="One of our shuttles was transporting pieces of a new technology that we plan to use to locate the astromech droid when it suddenly disappeared somewhere on this planet.\n\nYou have to find and repair that shuttle – we can’t leave the technology in the hands of our Republic enemies!"/>
+   <string id="MISSION_BRIEF_DARK12" value="We have successfully deployed a squad of droids close to the position of the Republic Army on this planet without being detected.\n\nWe have to strike them now, while they are unprepared and vulnerable. Destroy them all!"/>
+   <string id="MISSION_BRIEF_DARK13" value="Our enemies foolishly believe that we are weak now, but there is nothing more dangerous than a creature that is merely pretending to be hurt.\n\nWhen they board our ship, you will eliminate all of them. No clone must remain! Those blueprints will be ours!"/>
+   <string id="MISSION_BRIEF_DARK14" value="It looks like the astromech droid has found a way to transmit those blueprints directly across space. We nearly managed to get the plans downloaded, but one of our planetary frequency filters went down partway through the transmission. \n\nYou must get to the filter device and repair it. It’s the only way that we’ll get those plans!"/>
+   <string id="MISSION_BRIEF_DARK15" value="We can smell victory approaching. The Republic fleet is coming, and we are eagerly waiting. Our artillery will destroy them all when they arrive!\n\nBut while our weapons are mighty, our ship’s defenses can't resist an attack for long. Your final mission is to board the main Republic ship and destroy their laser cannons before they get here!"/>
+   
+   <string id="MISSION_BRIEF_LIGHT1" value="Moving undetected is vital for finding R2-D2 before our enemies do. But Separatist troops have sabotaged our ship and replaced our sensor array with one of their own. Now they can monitor all of our movements!\n\nWe have to clear any enemies out of the ship and destroy that device!"/>
+   <string id="MISSION_BRIEF_LIGHT2" value="The Separatists have positioned one of their ships at the edge of a sector of the galaxy that we need to explore in our search for R2-D2.\n\nTo protect our clone troopers when they arrive from hyperspace, we have to destroy all of the Separatist droids on board and take over the ship. You must act quickly!"/>
+   <string id="MISSION_BRIEF_LIGHT3" value="In order to locate R2-D2’s signal, we have constructed generators on the planet below that filter subspace frequencies to help us triangulate his position.\n\nBut one of the generators has mysteriously stopped working. You must land on the planet and get that device working again... Be careful!"/>
+   <string id="MISSION_BRIEF_LIGHT4" value="The Separatists have planted a homing beacon inside one of our starships that could reveal the location of the towers we’re using to try to triangulate R2-D2’s signal.\n\nThis device puts our mission in grave danger. You must find it... and destroy it!"/>
+   <string id="MISSION_BRIEF_LIGHT5" value="We need your help! The Separatists have discovered our position on a nearby planet, and a huge army of droids is coming for us!\n\nWe need you to destroy all of the droids so that we can hold on to this sector of the galaxy and continue the search for R2-D2 and his blueprints."/>
+   <string id="MISSION_BRIEF_LIGHT6" value="We have encountered a significant Separatist presence in a sector of the galaxy where our ships are on patrol.\n\nThey’re approaching to attack, and our reinforcements are too far away to arrive in time. You must infiltrate their main ship and strike them from inside. Good luck!"/>
+   <string id="MISSION_BRIEF_LIGHT7" value="During that last fight, the Separatists got hold of one of our amplifiers, and now they’re reengineering it to use it against us.\n\nIf you can reactivate the amplifier inside their ship, it’ll create a subspace wave that will knock out their entire defense system. We’ll stand ready to attack as soon as you’re successful!"/>
+   <string id="MISSION_BRIEF_LIGHT8" value="A mystery ‘noise’ is interfering with our localizing antennas...and it seems to be coming from inside of one of our own spaceships!\n\nFind and destroy the source of that sound, or we’ll never find R2-D2. Be careful – we strongly suspect that Separatist droids are behind this sabotage."/>
+   <string id="MISSION_BRIEF_LIGHT9" value="For some time, we’ve been successfully confusing our enemies by using a false droid distress signal planted on a planet in this system. Unfortunately, their scouting team recently found and shut down the emitting device.\n\nWe need you to go out there and repair it.  May the Force be with you!"/>
+   <string id="MISSION_BRIEF_LIGHT10" value="The battle for this planet is really heating up! Due to its central location in the system, both our side and the Separatists have planted Triangulation Nodes here to try to track down R2-D2.\n\nWe have to destroy their device before they attack ours, or we may never see our droid friend again!"/>
+   <string id="MISSION_BRIEF_LIGHT11" value="One of our Republic attack gunships was hit by Separatist fire during a recon flight, and we lost all communications. This craft has the best decoding experts in our fleet on board, and we need to rescue them at any cost.\n\nFind that ship and repair it so they can get back home safely!"/>
+   <string id="MISSION_BRIEF_LIGHT12" value="Our troopers on this planet appear to be safe for now, but our low-frequency transmitters are acting oddly and we fear an imminent ambush by Separatist forces.\n\nYou’d better scan the area and destroy any droids you find. We can’t afford to lose our troops!"/>
+   <string id="MISSION_BRIEF_LIGHT13" value="Our mission here is almost complete! But before we can make our final attack on the Separatists, we need to eliminate all possible resistance.\n\nWe need you to take their ship by surprise and destroy every droid on board before they can call for reinforcements and counterattack!"/>
+   <string id="MISSION_BRIEF_LIGHT14" value="A transmission signal has been detected arriving at a Separatist camp on the planet below. They are far too close to getting their hands on R2-D2 – and the secret blueprints!\n\nGet down there and destroy their frequency filters! It’s the only way to stop them in time!"/>
+   <string id="MISSION_BRIEF_LIGHT15" value="The moment of truth has come at last. We’ve located a position where we’re certain that we’ll be able to  download the secret blueprints.\n\nThe bad news is that the Separatists have accessed our targeting computer, and if we don’t shut it down, our final attack will be a disaster! We’re all counting on you – and so is R2-D2!"/>
+   
+   <!-- Leaderboard related -->
+   <string id="LB_OPTION1" value="BEST PLAYER"/>
+   <string id="LB_OPTION2" value="BEST OBIWAN"/>
+   <string id="LB_OPTION3" value="BEST ANAKIN"/>
+   <string id="LB_OPTION4" value="BEST ASAJJ"/>
+   <string id="LB_OPTION5" value="BEST DOOKU"/>
+   
+   <string id="LB_OPTION6" value="BEST MISSION 1"/>
+   <string id="LB_OPTION7" value="BEST MISSION 2"/>
+   <string id="LB_OPTION8" value="BEST MISSION 3"/>
+   <string id="LB_OPTION9" value="BEST MISSION 4"/>
+   <string id="LB_OPTION10" value="BEST MISSION 5"/>
+   <string id="LB_OPTION11" value="BEST MISSION 6"/>
+   <string id="LB_OPTION12" value="BEST MISSION 7"/>
+   <string id="LB_OPTION13" value="BEST MISSION 8"/>
+   <string id="LB_OPTION14" value="BEST MISSION 9"/>
+   <string id="LB_OPTION15" value="BEST MISSION 10"/>
+   <string id="LB_OPTION16" value="BEST MISSION 11"/>
+   <string id="LB_OPTION17" value="BEST MISSION 12"/>
+   <string id="LB_OPTION18" value="BEST MISSION 13"/>
+   <string id="LB_OPTION19" value="BEST MISSION 14"/>
+   <string id="LB_OPTION20" value="BEST MISSION 15"/>
+
+ <!-- Profile related -->
+ 	<string id="LEADERBOARD" value="LEADERBOARD"/>
+ 	<string id="MY_STATS" value="MY STATS"/>
+ 	<string id="STATS_GAME_SCORE" value="YOUR GAME SCORE"/>
+ 	<string id="STATS_GAME_PROGRESS" value="YOUR GAME PROGRESS"/>
+ 	<string id="STATS_ACHIEVEMENTS" value="YOUR LEVEL ACHIEVEMENTS"/>
+ 	<string id="RETRIEVING_DATA" value="RETRIEVING DATA"/>
+   
+    <!-- Results related -->
+  	<string id="ACCURACY" value="LEVEL COMPLETION"/>
+	<string id="ACHIEVEMENT" value="ACHIEVEMENT"/>
+	<string id="MULTIPLIER" value="MULTIPLIER"/>
+	<string id="NEW_HIGHSCORE" value="NEW BEST SCORE!"/>
+	
+	<!-- Connection / login popup -->
+	<string id="WARNING" value="YOU ARE NOT LOGGED IN!"/>
+	<string id="LOGIN_TEXT" value="AS A RESULT, ANY SCORE, MEDALS OR LEVELS YOU UNLOCK WILL NOT BE SAVED TO YOUR PROFILE.\n\nCLICK 'LOG IN' AND SIGN IN AT LEGO'S WEBSITE TO SAVE YOUR PROGRESS."/>
+	<string id="CONNECTION_ERROR_TEXT" value="THERE WAS A CONNECTION ERROR. PLEASE WAIT A MOMENT AND PRESS 'TRY AGAIN'."/>
+	<string id="BT_CONTINUE_WITHOUT" value="CONTINUE WITHOUT SAVING"/>
+	<string id="BT_TRY_AGAIN" value="TRY AGAIN"/>
+	<string id="BT_LOGIN" value="LOG IN"/>
+	<string id="NOT_RECOMENDED" value="NOT RECOMMENDED"/>
+	
+	<string id="WAITING_FOR_LOGIN" value="WAITING FOR LOG IN"/>
+	<string id="SENDING_DATA" value="SENDING DATA"/>
+		
+	<string id="CONTINUE" value="CONTINUE"/>
+	<string id="LOCKED" value="LOCKED"/>
+
+	<!-- Galaxy Map Related -->
+	<string id="DS_GLOBAL_SCORE" value="SEPARATISTS GLOBAL SCORE"/>
+	<string id="LS_GLOBAL_SCORE" value="REPUBLICANS GLOBAL SCORE"/>
+	<string id="DS_GLOBAL_PERC" value="SEPARATISTS´ GALAXY MAP DOMINATION PERCENTAGE"/>
+	<string id="LS_GLOBAL_PERC" value="REPUBLICANS´ GALAXY MAP DOMINATION PERCENTAGE"/>
+	<string id="ROUND_TIME" value="THIS ROUND ENDS IN:"/>
+	<string id="START" value="START"/>
+	
+	<string id="GALAXY_MAP_DESC" value="CLICK THE PROJECTOR BELOW TO ACCESS THE GALAXY MAP AND START PLAYING YOUR CHARACTER'S MISSIONS!"/>
+   
+   <string id="HIGHSCORE" value="YOUR BEST SCORE"/>
+   <string id="BRONCE_MISSION_ACHIEVEMENT" value="BRONCE MISSION ACHIEVEMENT"/>
+   <string id="NO_MISSION_ACHIEVEMENT" value="NO MISSION ACHIEVEMENT"/>
+   <string id="MISSION_STATS" value="MISSION STATS"/>
+   <string id="SILVER_MISSION_ACHIEVEMENT" value="SILVER MISSION ACHIEVEMENT"/>
+   <string id="GOLD_MISSION_ACHIEVEMENT" value="GOLD MISSION ACHIEVEMENT"/>
+   
+   <string id="CHAR_SEL_DESCRIPTION" value="SELECT YOUR CHARACTER AND HELP YOUR SIDE IN THE CLONE WARS TO FIND R2-D2 AND THE SECRET BLUEPRINTS. WHO WILL CONTROL THE GALAXY?"/>
+   <string id="DATA_RECEIVED" value="DATA RECEIVED!"/>
+   
+   <string id="BLUEPRINT_DESC" value="CLICK HERE TO OPEN THE FILE!"/>
+   <string id="PROGRESS_DESC" value="HOW CLOSE YOU ARE TO DOWNLOAD R2-D2'S DATA WITH THIS CHARACTER"/>
+   
+   <string id="PLATINUM_BRICK_DESC" value="THE NUMBER OF PLATINUM BRICKS YOU HAVE. USE THEM TO UPGRADE THE SKILLS BELOW. YOU CAN FIND THESE BRICKS HIDDEN IN THE LEVELS."/>
+   
+      <string id="GAME_SESSION" value="GAME SESSION"/>
+      <string id="EDIT_CHANGE" value="EDIT / CHANGE CHARACTER"/>
+      
+      <string id="CONGRATULATIONS" value="CONGRATULATIONS!"/>
+      <string id="RELEASE_POPUP_TEXT" value="YOU ARE DOING GREAT! BUT WHY DON'T YOU TAKE A BREAK? YOU CAN COME BACK LATER TO THE GAME WHENEVER YOU WANT."/>
+      
+      <string id="NEW" value="NEW!"/>
+                       
+	  <string id="EXIT_LEVEL" value="GREAT! NOW EXIT THE LEVEL USING THE DOOR"/>
+	  <string id="KILL_ALL" value="YOU MUST ELIMINATE ALL THE ENEMIES TO FINISH THE LEVEL"/>
+	  <string id="USE_FORCE" value="USE THE FORCE TO BUILD"/>
+	  <string id="DESTROY_DEVICE" value="DESTROY THE DEVICE"/>
+	  
+	  <string id="BT_HELP" value="HELP   ?"/>
+	  <string id="GRID_HELP_TITLE" value="GALAXY MAP HELP"/>
+	  <string id="GRID_HELP_TEXT" value="THE REPUBLIC AND SEPARATIST ARMIES ARE FIGHTING FOR CONTROL OF THE GALAXY. EVERY TIME A ROUND ENDS, THE SIDE WITH THE HIGHEST DOMINATION PERCENTAGE WILL SCORE A POINT.\n\nEVERY TIME YOU COMPLETE A LEVEL, YOU WILL BE HELPING ONE SIDE OR THE OTHER TO CONTROL THE MAP (FOR EXAMPLE, A VICTORY BY ANAKIN SKYWALKER MEANS AN ADVANTAGE FOR THE REPUBLIC, WHILE A VICTORY BY ASAJJ VENTRESS HELPS THE SEPARATISTS).\n\nCHOOSE YOUR SIDE WISELY, BECAUSE IN THIS QUEST, EVERY VICTORY COUNTS!"/>
+	  
+	  <string id="YOU_HAVE_RECEIVED_SIGNAL" value="YOU HAVE SUCCESSFULLY RECEIVED A FRAGMENT OF R2-D2's SIGNAL!"/>
+      <string id="SECRET_LIGHT_CHAR" value="OBI-WAN KENOBI"/>
+      <string id="SECRET_DARK_CHAR" value="THE COUNT DOOKU"/>
+      
+      <string id="AND" value="AND"/>
+      <string id="MISSIONS" value="MISSIONS"/>
+      <string id="YOU_HAVE_UNLOCKED_A_NEW_MISSION" value="YOU HAVE UNLOCKED A NEW MISSION!"/>
+      <string id="YOU_HAVE_UNLOCKED_NEW_MISSIONS" value="YOU HAVE UNLOCKED NEW MISSIONS!"/>
+      <string id="CHECK_IT_OUT_AT_THE_GALAXY_MAP" value="CHECK IT OUT AT THE GALAXY MAP!"/>
+      <string id="YOU_HAVE_UNLOCKED_A_NEW_CHARACTER" value="YOU HAVE UNLOCKED A NEW CHARACTER!"/>
+      <string id="YOU_FOUND_A_NEW_PLATINUM_BRICK" value="YOU FOUND A NEW PLATINUM BRICK!"/>
+      <string id="GO_TO_CHARACTER_PROFILE_TO_UPGRADE_SKILLS" value="GO TO CHARACTER PROFILE  TO UPGRADE SKILLS!"/>
+      <string id="YOU_HAVE_BEEN_PROMOTED" value="YOU HAVE BEEN PROMOTED!"/>
+      
+	
+</configLocalizationFile>
